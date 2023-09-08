@@ -1,0 +1,8 @@
+.hr{border-style: solid;border-width: 5px;color: aqua;}
+h1{border-style: dotted;border-width: thick;color: blueviolet;}
+p{border-style: dotted;border-width: 2px; white: space 2px;200px;}
+h1,h2{background-color: cadetblue;border-top-style: dotted;background-color: black;color: white;}
+div{background-color: blue;color: white;}
+img{
+    size-adjust: 3px;
+}
